@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T19:27:37.710Z" agent="5.0 (Windows)" etag="V6rF50L6-_dAN6yjBoWx" version="17.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-01T19:34:00.712Z" agent="5.0 (Windows)" etag="xYsEmSSvyrfuqihXx_TD" version="17.3.0" type="github" pages="2">
   <diagram id="5V57vhzmCOw08JQ088Q4" name="entidad-relacion">
     <mxGraphModel dx="1378" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,6 +296,16 @@
               <mxPoint x="1540" y="770" as="sourcePoint" />
               <mxPoint x="1660" y="900" as="targetPoint" />
             </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="OFRENDAS" lucidchartObjectId="muS5HW5V1hs6" id="hraIK7r8635V12LgCezm-12">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1672.5" y="595" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ASISTENCIA IGLESIA" lucidchartObjectId="muS5HW5V1hs6" id="hraIK7r8635V12LgCezm-13">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1672.5" y="853" width="180" height="45" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
