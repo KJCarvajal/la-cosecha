@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T03:11:05.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="isot0stvviLaHMTsi12J" version="17.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-01T04:05:51.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="0vl6qL1SLDpmJcjpGrkH" version="17.3.0" type="github" pages="2">
   <diagram id="5V57vhzmCOw08JQ088Q4" name="entidad-relacion">
-    <mxGraphModel dx="1303" dy="2406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="2042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,6 +267,9 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="qc8TKmSl7AZJXKZy1BSC-3" value="Lo dejo en amarillo &lt;br&gt;para discutirlo después" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;fontSize=15;fontColor=#999900;" vertex="1" parent="1">
+          <mxGeometry x="121" y="130" width="199" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
