@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T19:35:12.704Z" agent="5.0 (Windows)" etag="ldzUHzT3cFy63VycFnjf" version="17.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-01T20:18:42.353Z" agent="5.0 (Windows)" etag="aJffnxRbLj1cUt6DtgIo" version="17.3.0" type="github" pages="2">
   <diagram id="5V57vhzmCOw08JQ088Q4" name="entidad-relacion">
-    <mxGraphModel dx="1378" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2004" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,6 +306,30 @@
         <UserObject label="ASISTENCIA IGLESIA" lucidchartObjectId="muS5HW5V1hs6" id="hraIK7r8635V12LgCezm-13">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="1">
             <mxGeometry x="1672.5" y="853" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;margin: 0px ; padding-left: 10px ; list-style-position: inside ; list-style-type: disc&quot;&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;ID&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;, Int(11), PK, NN, AI.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;b&gt;Nombre&lt;/b&gt;, Char(42), NN.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;b&gt;Estado civil&lt;/b&gt;, ENUM(&#39;Soltero&#39;, &#39;Casado&#39;), NN.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;b&gt;Nacimiento,&lt;/b&gt; DATE, NN.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;b&gt;Conversion, &lt;/b&gt;DATE, NN.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;b&gt;Bautismo, &lt;/b&gt;DATE, NN.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;b&gt;Direccion,&lt;/b&gt; Char(42), NN.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;b&gt;Telefono&lt;/b&gt;, Char(42), NN.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;b&gt;ID Celula&lt;/b&gt;, Int(11), NN, FK.&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" lucidchartObjectId="6I_5zqr.uQOb" id="hraIK7r8635V12LgCezm-14">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1957" y="640" width="170" height="400" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BAUTISMO EN AGUA" lucidchartObjectId="muS5HW5V1hs6" id="hraIK7r8635V12LgCezm-15">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1952" y="595" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="9IZ5y9N6FKIM" id="hraIK7r8635V12LgCezm-16">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=ERmandOne;startSize=10;endArrow=ERoneToMany;endSize=10;exitX=1.002;exitY=0.087;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hVVVExCG_ycvUPT3CRaz-13" target="hraIK7r8635V12LgCezm-14">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="1080" y="440" />
+                <mxPoint x="1080" y="1080" />
+                <mxPoint x="1900" y="1080" />
+                <mxPoint x="1900" y="1000" />
+              </Array>
+              <mxPoint x="950" y="450" as="sourcePoint" />
+              <mxPoint x="1960" y="1010" as="targetPoint" />
+            </mxGeometry>
           </mxCell>
         </UserObject>
       </root>
