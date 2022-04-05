@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T17:34:11.748Z" agent="5.0 (Windows)" etag="aQkZbOe5hBVcGL4WwExK" version="17.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-05T04:46:42.643Z" agent="5.0 (Windows)" etag="tBaXPNf3ozC10RR4jLoQ" version="17.3.0" type="github" pages="2">
   <diagram id="5V57vhzmCOw08JQ088Q4" name="entidad-relacion">
     <mxGraphModel dx="1695" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,6 +353,11 @@
         <UserObject label="VISITAS" lucidchartObjectId="v3R6o1dtJgma" id="8Yn4i7g7PQJnt5qtdjVk-4">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="1">
             <mxGeometry x="2762.5" y="72" width="180" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;margin: 0px ; padding-left: 10px ; list-style-position: inside ; list-style-type: disc&quot;&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;ID&lt;/span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;, Int(11), PK, NN, AI.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;Nombre&lt;/span&gt;, Char(42), NN.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left ; color: #333333 ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333 ; font-weight: bold&quot;&gt;ID celula&lt;/span&gt;, Int(11), NN, FK.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" lucidchartObjectId="6I_5zqr.uQOb" id="4gxkvX7cn3n_HNs_nlOF-2">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1852.5" y="120" width="165" height="173" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
