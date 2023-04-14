@@ -1,2 +1,2 @@
 # la-cosecha
-Proyecto La Cosecha
+Proyecto La Cosecha  - solo fueron pajas
